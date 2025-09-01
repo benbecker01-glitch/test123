@@ -17,7 +17,7 @@ int main()
    
   // Schreibe etwas auf die Konsole:
 
-for(double k=0;k<=720;k=k+10.0)
+for(double k=0;k<=720;k=k+5.0)
 {
   std::cout << std::setprecision(10) << std::fixed << addition(k*PI/180) << "\n";
 }
