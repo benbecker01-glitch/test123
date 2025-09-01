@@ -9,7 +9,7 @@ add_compile_options(-O0 -pedantic -Wfatal-errors -Wall)
 add_compile_options(-Wextra -Wshadow -Wconversion -Wno-unused)
 
 # Projektname fuer CMake
-project(Proku)
+project(Test123)
 
 # die Liste aller ausfuehrbaren Programme
-add_executable(hello-world hello_world.cpp add.cpp)
+add_executable(hello-world main.cpp add.cpp)
