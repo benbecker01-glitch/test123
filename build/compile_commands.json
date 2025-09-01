@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Benjamin/Desktop/Entwicklungsprogramme/test123/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -O0 -pedantic -Wfatal-errors -Wall -Wextra -Wshadow -Wconversion -Wno-unused -o CMakeFiles\\hello-world.dir\\main.cpp.obj -c C:\\Users\\Benjamin\\Desktop\\Entwicklungsprogramme\\test123\\main.cpp",
+  "file": "C:/Users/Benjamin/Desktop/Entwicklungsprogramme/test123/main.cpp",
+  "output": "CMakeFiles/hello-world.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benjamin/Desktop/Entwicklungsprogramme/test123/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -O0 -pedantic -Wfatal-errors -Wall -Wextra -Wshadow -Wconversion -Wno-unused -o CMakeFiles\\hello-world.dir\\add.cpp.obj -c C:\\Users\\Benjamin\\Desktop\\Entwicklungsprogramme\\test123\\add.cpp",
+  "file": "C:/Users/Benjamin/Desktop/Entwicklungsprogramme/test123/add.cpp",
+  "output": "CMakeFiles/hello-world.dir/add.cpp.obj"
+}
+]
