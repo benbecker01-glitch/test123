@@ -8,7 +8,7 @@
 int main()
 {
   //current values
-  int i=2;
+  int i=3;
   int j=1;
 
   double param, result;
